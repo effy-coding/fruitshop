@@ -3,7 +3,7 @@ fruitshop dApp with Truffle, React.js
 
 ## 완성물 미리보기 (Youtube) ##
 <br/>
-[![Project_Preview](https://dangen-effy.github.io/assets/project_preview.png)](https://www.youtube.com/watch?v=d3qjvLVfiZ4)
+[![Project_Preview](project_preview.png)](https://www.youtube.com/watch?v=d3qjvLVfiZ4)
 
 [클릭하면 유뷰트로 이동합니다.](https://www.youtube.com/watch?v=d3qjvLVfiZ4)
 
